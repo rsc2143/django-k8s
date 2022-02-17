@@ -1,0 +1,1 @@
+This repo contains learnings from the youtube course on "Deploy Django into Production with Kubernetes, Docker, & Github Actions. Complete Tutorial Series" from the following link : https://www.youtube.com/watch?v=NAOsLaB6Lfc&t=698s
